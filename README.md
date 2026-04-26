@@ -12,8 +12,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,sql,mysql,mongodb,git,github,aws,gcp,sklearn" />
 </p>
-### 📊 Data & Analytics
+###** Data & Analytics**
 Pandas | NumPy | Matplotlib | Power BI | Excel  
 
-### 🤖 AI & Gen AI
+###** AI & Gen AI**
 LangChain | LLM Integration | Prompt Engineering | AI Agents  
