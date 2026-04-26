@@ -10,5 +10,5 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,sql,sklearn,pandas,mongodb,mysql,aws,gcp,google,apple,amazon,excel,powerbi,tensorflow,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,sql,sklearn,pandas,mongodb,mysql,aws,gcp,google,amazon,excel,powerbi,tensorflow,git,github" />
 </p>
