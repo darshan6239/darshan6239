@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,sql,mysql,mongodb,git,github,aws,gcp,sklearn" />
 </p>
+
 ###  Data & Analytics
 Pandas | NumPy | Matplotlib | Power BI | Excel  
 
