@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-- 🎓 AI & Data Science Student  
-- 💡 Passionate about solving real-world problems  
-- 🛠 Building an AI Data Analysis Agent  
-- 📍 India
+- AI & Data Science Student  
+- Passionate about solving real-world problems  
+- Building an AI Data Analysis Agent  
+- India
 
 ## 🧠 Tech Stack
 
