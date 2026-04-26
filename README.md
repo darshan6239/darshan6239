@@ -34,5 +34,12 @@ LangChain | LLM Integration | Prompt Engineering | AI Agents
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/darshanpatil8633/
-- 🌍 Portfolio: https://darshpatil.in
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshanpatil8633/">
+    <img src="https://img.shields.io/badge/LinkedIn-Darshan%20Patil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://darshpatil.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
