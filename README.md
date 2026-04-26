@@ -31,3 +31,8 @@ LangChain | LLM Integration | Prompt Engineering | AI Agents
 ![Snake animation](https://raw.githubusercontent.com/darshan6239/darshan6239/output/github-contribution-grid-snake.svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=darshan6239&color=blue)
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/darshanpatil8633/
+- 🌍 Portfolio: https://darshpatil.in
