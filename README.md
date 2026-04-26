@@ -26,20 +26,4 @@ LangChain | LLM Integration | Prompt Engineering | AI Agents
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan6239&layout=compact&theme=tokyonight" />
 </p>
 
-name: Metrics
-on:
-  schedule: [{cron: "0 * * * *"}]
-  workflow_dispatch:
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          user: darshan6239
-          template: classic
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_isocalendar: yes
-          plugin_traffic: yes
