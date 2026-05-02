@@ -29,7 +29,6 @@ LangChain | LLM Integration | Prompt Engineering | AI Agents
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/darshan6239/darshan6239/output/github-contribution-grid-snake.svg)
-
 ![Profile views](https://komarev.com/ghpvc/?username=darshan6239&color=blue)
 
 ## 🌐 Connect With Me
