@@ -21,21 +21,16 @@ LangChain | LLM Integration | Prompt Engineering | AI Agents
 
 ## 📊 GitHub Stats
 
-<h1 align="center">👨‍💻 Darshan.exe</h1>
+<h2 align="center">🤖 AI Builder | Data Explorer | Problem Solver</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%7C+Data+Science+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan6239&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan6239&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan6239&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=darshan6239&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan6239&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshan6239&theme=matrix&no-frame=true&margin-w=10" />
-</p>
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/darshan6239/darshan6239/output/github-contribution-grid-snake.svg)
