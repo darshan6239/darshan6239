@@ -1,29 +1,6 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Darshan+Patil+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+AI+Agents+%F0%9F%A4%96;Data+Explorer+%7C+Problem+Solver+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
-
+<img src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="100%" alt="Darshan Banner"/>
 </div>
-
----
-
-<img align="right" src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="280" alt="Baby Groot"/>
-
-## ⚡ About Me
-
-```python
-agent = Agent(
-    name      = "Darshan Patil",
-    role      = "AI & Data Science Student",
-    location  = "India 🇮🇳",
-    focus     = ["AI Agents", "Data Analysis",
-                 "LLM Integration"],
-    building  = "AI Data Analysis Agent 🤖",
-    portfolio = "https://darshpatil.in",
-)
-agent.run("Solving real-world problems")
-```
-
-<br clear="right"/>
 
 ---
 
