@@ -1,4 +1,10 @@
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Darshan+Patil+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="100%" alt="Darshan Banner"/>
 </div>
 
