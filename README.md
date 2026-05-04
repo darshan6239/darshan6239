@@ -6,9 +6,7 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="65%" valign="center">
+<img align="right" src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="280" alt="Baby Groot"/>
 
 ## ⚡ About Me
 
@@ -25,14 +23,7 @@ agent = Agent(
 agent.run("Solving real-world problems")
 ```
 
-</td>
-<td width="35%" valign="bottom" align="center">
-
-<img src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="230" alt="Baby Groot floating"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
