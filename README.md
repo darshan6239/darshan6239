@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hello there, I'm Darshan Patil 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Agents;Data+Explorer+%7C+India" />
 
 </div>
 
