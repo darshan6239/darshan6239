@@ -1,33 +1,38 @@
 <div align="center">
 
-<!-- BANNER GIF — upload FInal_Groot.gif to your repo root and it will show here -->
-<img src="./FInal_Groot.gif" width="100%" alt="Darshan Banner"/>
-
-</div>
-
----
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Darshan+Patil+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+AI+Agents+%F0%9F%A4%96;Data+Explorer+%7C+Problem+Solver+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+<table width="100%">
+<tr>
+<td width="65%" valign="center">
+
 ## ⚡ About Me
 
 ```python
 agent = Agent(
-    name        = "Darshan Patil",
-    role        = "AI & Data Science Student",
-    location    = "India 🇮🇳",
-    focus       = ["AI Agents", "Data Analysis", "LLM Integration"],
-    currently   = "Building an AI Data Analysis Agent 🤖",
-    portfolio   = "https://darshpatil.in",
+    name      = "Darshan Patil",
+    role      = "AI & Data Science Student",
+    location  = "India 🇮🇳",
+    focus     = ["AI Agents", "Data Analysis",
+                 "LLM Integration"],
+    building  = "AI Data Analysis Agent 🤖",
+    portfolio = "https://darshpatil.in",
 )
 agent.run("Solving real-world problems")
 ```
+
+</td>
+<td width="35%" valign="bottom" align="center">
+
+<img src="https://raw.githubusercontent.com/darshan6239/darshan6239/main/FInal%20Groot.gif" width="230" alt="Baby Groot floating"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,15 +48,13 @@ agent.run("Solving real-world problems")
 
 <img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
 
-**Data & AI**
+**ML & AI**
 
 <img src="https://skillicons.dev/icons?i=sklearn" />
 
-</div>
+<br/>
 
-<div align="center">
-
-| Data & Analytics | AI & Gen AI |
+| 📊 Data & Analytics | 🤖 AI & Gen AI |
 |:---:|:---:|
 | Pandas · NumPy · Matplotlib | LangChain · LLM Integration |
 | Power BI · Excel · SQL | Prompt Engineering · AI Agents |
@@ -66,13 +69,13 @@ agent.run("Solving real-world problems")
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan6239&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%"/>
 
-<br/>
+<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=darshan6239&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=4ade80&text_color=94a3b8" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan6239&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" />
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darshan6239&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8)](https://git.io/streak-stats)
 
