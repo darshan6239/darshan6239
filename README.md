@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Darshan+Patil+%F0%9F%91%8B)](https://git.io/typing-svg)
+# Hello there, I'm Darshan Patil 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Real-World+AI+Agents+%F0%9F%A4%96;Data+Explorer+%7C+Problem+Solver+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 </div>
 
