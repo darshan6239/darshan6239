@@ -52,10 +52,6 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darshan6239&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
