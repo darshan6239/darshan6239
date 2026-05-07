@@ -45,13 +45,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan6239&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%"/>
 
 <br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=darshan6239&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=4ade80&text_color=94a3b8" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan6239&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" />
-
-<br/><br/>
-
 ---
 
 ## 🐍 Contribution Snake
