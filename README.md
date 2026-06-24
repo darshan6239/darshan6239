@@ -6,15 +6,6 @@
 
 <br/>
 
-🏆 **AIR 21 of 19,000+ teams** — shipped a full agentic AI platform in 48 hours
-&nbsp;·&nbsp;
-🥇 **1st Prize, ICRTAIDS 2025** — published & presented research
-
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=darshan6239&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/darshan6239?style=for-the-badge&color=38BDF8&labelColor=000000)
-
 </div>
 
 <div align="center">
