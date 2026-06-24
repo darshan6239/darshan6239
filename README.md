@@ -65,12 +65,15 @@
 ![EDA](https://img.shields.io/badge/EDA-455A64?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-00897B?style=for-the-badge&logo=robotframework&logoColor=white)
 
-</div>
+
+### Focus Areas
+ 
 | 📊 Data & Analytics | 🤖 AI & Gen AI |
 |:---:|:---:|
-| Pandas · NumPy · Matplotlib | LangChain · LLM Integration |
-| Power BI · Excel · SQL | Prompt Engineering · AI Agents |
-
+| Pandas · NumPy · Matplotlib | LangChain · RAG · LLM Integration |
+| Power BI · Tableau · Excel · SQL | Prompt Engineering · AI Agents |
+| MySQL · MongoDB · BigQuery | Vector Embeddings · Agentic Workflows |
+ 
 </div>
 
 ---
