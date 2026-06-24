@@ -1,7 +1,19 @@
 <div align="center">
 
-# Hello there, I'm Darshan Patil 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+AI+Agents;Data+Explorer+%7C+India" />
+# Hi, I'm Darshan Patil
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Agentic+Systems+%26+RAG;Data+Analytics+Engineer+%7C+B.E.+AI+%26+DS;AIR+21%2F19%2C000%2B+%E2%80%94+National+Hackathon" />
+
+<br/>
+
+🏆 **AIR 21 of 19,000+ teams** — shipped a full agentic AI platform in 48 hours
+&nbsp;·&nbsp;
+🥇 **1st Prize, ICRTAIDS 2025** — published & presented research
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=darshan6239&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/darshan6239?style=for-the-badge&color=38BDF8&labelColor=000000)
 
 </div>
 
