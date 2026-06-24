@@ -12,22 +12,50 @@
 ---
 
 ## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-**Languages & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,mongodb" />
+**AI Agents, LLMs & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=vectorworks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge&logo=ai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=for-the-badge&logo=robotframework&logoColor=white)
+
+**Data & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**BI & Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 **Cloud & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,gcp" />
-
-**ML & AI**
-
-<img src="https://skillicons.dev/icons?i=sklearn" />
-
-<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 | 📊 Data & Analytics | 🤖 AI & Gen AI |
 |:---:|:---:|
