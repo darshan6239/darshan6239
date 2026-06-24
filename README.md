@@ -77,7 +77,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📊 GitHub Stats
 
 <div align="center">
