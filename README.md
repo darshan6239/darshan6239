@@ -111,7 +111,4 @@
 ---
 
 <div align="center">
-
-*`// Built with curiosity, powered by data`*
-
 </div>
