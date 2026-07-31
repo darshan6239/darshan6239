@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Darshan Patil
+<img src="assets/intro.svg" width="100%" alt="Animated Intro"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Agentic+Systems+%26+RAG;Data+Analytics+Engineer+%7C+B.E.+AI+%26+DS;AIR+21%2F19%2C000%2B+%E2%80%94+National+Hackathon" />
+<br><br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI+Developer;Building+Intelligent+Systems+for+Real+World+Impact;Open+Source+Contributor;Hackathon+Finalist+%7C+Research+Author" />
 
 </div>
 
@@ -82,7 +82,7 @@
 ---
 <div align="center">
  
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
