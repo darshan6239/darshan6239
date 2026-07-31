@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/intro.svg" width="100%" alt="Animated Intro"/>
-
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI+Developer;Building+Intelligent+Systems+for+Real+World+Impact;Open+Source+Contributor;Hackathon+Finalist+%7C+Research+Author" />
